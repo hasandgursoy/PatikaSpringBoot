@@ -1,6 +1,9 @@
 ### Special Commit ###
 log
 
+### Memory ###
+memory_persist
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
